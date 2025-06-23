@@ -1,0 +1,310 @@
+2025-06-19 14:46:39,891 INFO: Prepared user: dustin.gibson55
+2025-06-19 14:46:39,893 INFO: Prepared user: joseph.hopkins73
+2025-06-19 14:46:39,893 INFO: Prepared user: connie.richmond32
+2025-06-19 14:46:39,895 INFO: Prepared user: melissa.little28
+2025-06-19 14:46:39,895 INFO: Prepared user: tara.lloyd90
+2025-06-19 14:46:39,896 INFO: Prepared user: chelsea.love21
+2025-06-19 14:46:39,897 INFO: Prepared user: yesenia.morales65
+2025-06-19 14:46:39,898 INFO: Prepared user: katie.palmer83
+2025-06-19 14:46:39,899 INFO: Prepared user: brian.hill03
+2025-06-19 14:46:39,900 INFO: Prepared user: michael.bryant60
+2025-06-19 14:46:41,190 INFO: Keycloak token retrieved successfully.
+2025-06-19 14:46:42,159 ERROR: Failed to create dustin.gibson55: 401 - {"error":"HTTP 401 Unauthorized","error_description":"For more on this error consult the server log at the debug level."}
+2025-06-19 14:46:42,915 ERROR: Failed to create joseph.hopkins73: 401 - {"error":"HTTP 401 Unauthorized","error_description":"For more on this error consult the server log at the debug level."}
+2025-06-19 14:46:43,559 ERROR: Failed to create connie.richmond32: 401 - {"error":"HTTP 401 Unauthorized","error_description":"For more on this error consult the server log at the debug level."}
+2025-06-19 14:46:44,350 ERROR: Failed to create melissa.little28: 401 - {"error":"HTTP 401 Unauthorized","error_description":"For more on this error consult the server log at the debug level."}
+2025-06-19 14:46:45,117 ERROR: Failed to create tara.lloyd90: 401 - {"error":"HTTP 401 Unauthorized","error_description":"For more on this error consult the server log at the debug level."}
+2025-06-19 14:46:45,885 ERROR: Failed to create chelsea.love21: 401 - {"error":"HTTP 401 Unauthorized","error_description":"For more on this error consult the server log at the debug level."}
+2025-06-19 14:46:46,519 ERROR: Failed to create yesenia.morales65: 401 - {"error":"HTTP 401 Unauthorized","error_description":"For more on this error consult the server log at the debug level."}
+2025-06-19 14:46:47,160 ERROR: Failed to create katie.palmer83: 401 - {"error":"HTTP 401 Unauthorized","error_description":"For more on this error consult the server log at the debug level."}
+2025-06-19 14:46:47,916 ERROR: Failed to create brian.hill03: 401 - {"error":"HTTP 401 Unauthorized","error_description":"For more on this error consult the server log at the debug level."}
+2025-06-19 14:46:48,666 ERROR: Failed to create michael.bryant60: 401 - {"error":"HTTP 401 Unauthorized","error_description":"For more on this error consult the server log at the debug level."}
+2025-06-19 14:46:48,963 INFO: Done. 0 users created, 10 failed.
+2025-06-19 14:51:41,662 INFO: Prepared user: dustin.gibson80
+2025-06-19 14:51:41,664 INFO: Prepared user: joseph.hopkins58
+2025-06-19 14:51:41,664 INFO: Prepared user: connie.richmond00
+2025-06-19 14:51:41,665 INFO: Prepared user: melissa.little11
+2025-06-19 14:51:41,666 INFO: Prepared user: tara.lloyd27
+2025-06-19 14:51:41,666 INFO: Prepared user: chelsea.love24
+2025-06-19 14:51:41,667 INFO: Prepared user: yesenia.morales45
+2025-06-19 14:51:41,668 INFO: Prepared user: katie.palmer55
+2025-06-19 14:51:41,669 INFO: Prepared user: brian.hill19
+2025-06-19 14:51:41,670 INFO: Prepared user: michael.bryant21
+2025-06-19 14:51:42,648 INFO: Keycloak token retrieved successfully.
+2025-06-19 14:51:43,591 ERROR: Failed to create dustin.gibson80: 401 - {"error":"HTTP 401 Unauthorized","error_description":"For more on this error consult the server log at the debug level."}
+2025-06-19 14:51:44,313 ERROR: Failed to create joseph.hopkins58: 401 - {"error":"HTTP 401 Unauthorized","error_description":"For more on this error consult the server log at the debug level."}
+2025-06-19 14:51:45,206 ERROR: Failed to create connie.richmond00: 401 - {"error":"HTTP 401 Unauthorized","error_description":"For more on this error consult the server log at the debug level."}
+2025-06-19 14:51:46,397 ERROR: Failed to create melissa.little11: 401 - {"error":"HTTP 401 Unauthorized","error_description":"For more on this error consult the server log at the debug level."}
+2025-06-19 14:51:47,078 ERROR: Failed to create tara.lloyd27: 401 - {"error":"HTTP 401 Unauthorized","error_description":"For more on this error consult the server log at the debug level."}
+2025-06-19 14:51:47,875 ERROR: Failed to create chelsea.love24: 401 - {"error":"HTTP 401 Unauthorized","error_description":"For more on this error consult the server log at the debug level."}
+2025-06-19 14:51:49,100 ERROR: Failed to create yesenia.morales45: 401 - {"error":"HTTP 401 Unauthorized","error_description":"For more on this error consult the server log at the debug level."}
+2025-06-19 14:51:49,804 ERROR: Failed to create katie.palmer55: 401 - {"error":"HTTP 401 Unauthorized","error_description":"For more on this error consult the server log at the debug level."}
+2025-06-19 14:51:50,561 ERROR: Failed to create brian.hill19: 401 - {"error":"HTTP 401 Unauthorized","error_description":"For more on this error consult the server log at the debug level."}
+2025-06-19 14:51:51,459 ERROR: Failed to create michael.bryant21: 401 - {"error":"HTTP 401 Unauthorized","error_description":"For more on this error consult the server log at the debug level."}
+2025-06-19 14:51:51,705 INFO: Done. 0 users created, 10 failed.
+2025-06-19 14:54:42,921 INFO: Prepared user: dustin.gibson36
+2025-06-19 14:54:42,922 INFO: Prepared user: joseph.hopkins82
+2025-06-19 14:54:42,923 INFO: Prepared user: connie.richmond04
+2025-06-19 14:54:42,923 INFO: Prepared user: melissa.little69
+2025-06-19 14:54:42,924 INFO: Prepared user: tara.lloyd07
+2025-06-19 14:54:42,924 INFO: Prepared user: chelsea.love04
+2025-06-19 14:54:42,925 INFO: Prepared user: yesenia.morales32
+2025-06-19 14:54:42,926 INFO: Prepared user: katie.palmer02
+2025-06-19 14:54:42,926 INFO: Prepared user: brian.hill95
+2025-06-19 14:54:42,927 INFO: Prepared user: michael.bryant45
+2025-06-19 14:54:43,798 INFO: Keycloak token retrieved successfully.
+2025-06-19 14:54:44,681 ERROR: Failed to create dustin.gibson36: 401 - {"error":"HTTP 401 Unauthorized","error_description":"For more on this error consult the server log at the debug level."}
+2025-06-19 14:54:45,426 ERROR: Failed to create joseph.hopkins82: 401 - {"error":"HTTP 401 Unauthorized","error_description":"For more on this error consult the server log at the debug level."}
+2025-06-19 14:54:46,167 ERROR: Failed to create connie.richmond04: 401 - {"error":"HTTP 401 Unauthorized","error_description":"For more on this error consult the server log at the debug level."}
+2025-06-19 14:54:47,086 ERROR: Failed to create melissa.little69: 401 - {"error":"HTTP 401 Unauthorized","error_description":"For more on this error consult the server log at the debug level."}
+2025-06-19 14:54:47,867 ERROR: Failed to create tara.lloyd07: 401 - {"error":"HTTP 401 Unauthorized","error_description":"For more on this error consult the server log at the debug level."}
+2025-06-19 14:54:48,723 ERROR: Failed to create chelsea.love04: 401 - {"error":"HTTP 401 Unauthorized","error_description":"For more on this error consult the server log at the debug level."}
+2025-06-19 14:54:49,708 ERROR: Failed to create yesenia.morales32: 401 - {"error":"HTTP 401 Unauthorized","error_description":"For more on this error consult the server log at the debug level."}
+2025-06-19 14:54:50,432 ERROR: Failed to create katie.palmer02: 401 - {"error":"HTTP 401 Unauthorized","error_description":"For more on this error consult the server log at the debug level."}
+2025-06-19 14:54:51,174 ERROR: Failed to create brian.hill95: 401 - {"error":"HTTP 401 Unauthorized","error_description":"For more on this error consult the server log at the debug level."}
+2025-06-19 14:54:51,939 ERROR: Failed to create michael.bryant45: 401 - {"error":"HTTP 401 Unauthorized","error_description":"For more on this error consult the server log at the debug level."}
+2025-06-20 08:39:33,862 INFO: Prepared user: gaddafi.gambo00
+2025-06-20 08:39:33,864 INFO: Prepared user: makija.ogyin41
+2025-06-20 08:39:33,865 INFO: Prepared user: gideon.obeng25
+2025-06-20 08:39:33,867 INFO: Prepared user: clement.sekyere42
+2025-06-20 08:39:33,867 INFO: Prepared user: samuel.cobbinah84
+2025-06-20 08:39:33,868 INFO: Prepared user: agamah.perfect55
+2025-06-20 08:39:33,869 INFO: Prepared user: elizabeth.mansah96
+2025-06-20 08:39:34,722 INFO: Keycloak token retrieved successfully.
+2025-06-20 08:39:35,487 WARNING: User gaddafi.gambo00 already exists.
+2025-06-20 08:39:36,257 WARNING: User makija.ogyin41 already exists.
+2025-06-20 08:39:37,083 WARNING: User gideon.obeng25 already exists.
+2025-06-20 08:39:37,894 WARNING: User clement.sekyere42 already exists.
+2025-06-20 08:39:38,715 WARNING: User samuel.cobbinah84 already exists.
+2025-06-20 08:39:39,434 WARNING: User agamah.perfect55 already exists.
+2025-06-20 08:39:40,251 WARNING: User elizabeth.mansah96 already exists.
+2025-06-20 08:39:41,120 INFO: Done. 0 users created, 7 failed.
+2025-06-20 08:40:19,059 INFO: Prepared user: danielle.johnson12
+2025-06-20 08:40:19,060 INFO: Prepared user: joy.gardner61
+2025-06-20 08:40:19,061 INFO: Prepared user: carolyn.hoffman19
+2025-06-20 08:40:19,063 INFO: Prepared user: katherine.moore02
+2025-06-20 08:40:19,064 INFO: Prepared user: christopher.davis63
+2025-06-20 08:40:19,065 INFO: Prepared user: teresa.gray10
+2025-06-20 08:40:19,066 INFO: Prepared user: jeremy.roberts46
+2025-06-20 08:40:19,067 INFO: Prepared user: michael.santiago85
+2025-06-20 08:40:19,068 INFO: Prepared user: jeffrey.nguyen16
+2025-06-20 08:40:19,068 INFO: Prepared user: nancy.edwards60
+2025-06-20 08:40:19,985 INFO: Keycloak token retrieved successfully.
+2025-06-20 08:40:20,803 ERROR: Failed to create danielle.johnson12: 500 - {"error":"unknown_error","error_description":"For more on this error consult the server log."}
+2025-06-20 08:40:21,622 ERROR: Failed to create joy.gardner61: 500 - {"error":"unknown_error","error_description":"For more on this error consult the server log."}
+2025-06-20 08:40:22,441 ERROR: Failed to create carolyn.hoffman19: 500 - {"error":"unknown_error","error_description":"For more on this error consult the server log."}
+2025-06-20 08:40:23,261 ERROR: Failed to create katherine.moore02: 500 - {"error":"unknown_error","error_description":"For more on this error consult the server log."}
+2025-06-20 08:40:24,183 ERROR: Failed to create christopher.davis63: 500 - {"error":"unknown_error","error_description":"For more on this error consult the server log."}
+2025-06-20 08:40:25,002 ERROR: Failed to create teresa.gray10: 500 - {"error":"unknown_error","error_description":"For more on this error consult the server log."}
+2025-06-20 08:40:25,821 ERROR: Failed to create jeremy.roberts46: 500 - {"error":"unknown_error","error_description":"For more on this error consult the server log."}
+2025-06-20 08:40:26,743 ERROR: Failed to create michael.santiago85: 500 - {"error":"unknown_error","error_description":"For more on this error consult the server log."}
+2025-06-20 08:40:27,664 ERROR: Failed to create jeffrey.nguyen16: 500 - {"error":"unknown_error","error_description":"For more on this error consult the server log."}
+2025-06-20 08:40:28,482 ERROR: Failed to create nancy.edwards60: 500 - {"error":"unknown_error","error_description":"For more on this error consult the server log."}
+2025-06-20 08:40:28,749 INFO: Done. 0 users created, 10 failed.
+2025-06-20 08:42:24,061 INFO: Prepared user: danielle.johnson25
+2025-06-20 08:42:24,062 INFO: Prepared user: joy.gardner45
+2025-06-20 08:42:24,063 INFO: Prepared user: carolyn.hoffman10
+2025-06-20 08:42:24,064 INFO: Prepared user: katherine.moore98
+2025-06-20 08:42:24,065 INFO: Prepared user: christopher.davis55
+2025-06-20 08:42:24,066 INFO: Prepared user: teresa.gray29
+2025-06-20 08:42:24,067 INFO: Prepared user: jeremy.roberts40
+2025-06-20 08:42:24,068 INFO: Prepared user: michael.santiago11
+2025-06-20 08:42:24,069 INFO: Prepared user: jeffrey.nguyen22
+2025-06-20 08:42:24,070 INFO: Prepared user: nancy.edwards43
+2025-06-20 08:42:25,122 INFO: Keycloak token retrieved successfully.
+2025-06-20 08:42:25,964 INFO: User danielle.johnson25 created successfully.
+2025-06-20 08:42:26,768 INFO: User joy.gardner45 created successfully.
+2025-06-20 08:42:27,581 INFO: User carolyn.hoffman10 created successfully.
+2025-06-20 08:42:28,506 INFO: User katherine.moore98 created successfully.
+2025-06-20 08:42:29,344 INFO: User christopher.davis55 created successfully.
+2025-06-20 08:42:30,144 INFO: User teresa.gray29 created successfully.
+2025-06-20 08:42:30,973 INFO: User jeremy.roberts40 created successfully.
+2025-06-20 08:42:31,777 INFO: User michael.santiago11 created successfully.
+2025-06-20 08:42:32,461 INFO: User jeffrey.nguyen22 created successfully.
+2025-06-20 08:42:33,328 INFO: User nancy.edwards43 created successfully.
+2025-06-20 08:42:33,636 INFO: Done. 10 users created, 0 failed.
+2025-06-20 08:58:50,605 INFO: Prepared user: danielle.johnson39
+2025-06-20 08:58:50,608 INFO: Prepared user: joy.gardner63
+2025-06-20 08:58:50,611 INFO: Prepared user: carolyn.hoffman43
+2025-06-20 08:58:50,614 INFO: Prepared user: katherine.moore77
+2025-06-20 08:58:50,616 INFO: Prepared user: christopher.davis86
+2025-06-20 08:58:50,618 INFO: Prepared user: teresa.gray30
+2025-06-20 08:58:50,621 INFO: Prepared user: jeremy.roberts94
+2025-06-20 08:58:50,624 INFO: Prepared user: michael.santiago71
+2025-06-20 08:58:50,625 INFO: Prepared user: jeffrey.nguyen94
+2025-06-20 08:58:50,627 INFO: Prepared user: nancy.edwards17
+2025-06-20 08:58:51,666 INFO: Keycloak token retrieved successfully.
+2025-06-20 08:58:52,582 WARNING: User danielle.johnson39 already exists.
+2025-06-20 08:58:53,406 WARNING: User joy.gardner63 already exists.
+2025-06-20 08:58:54,328 WARNING: User carolyn.hoffman43 already exists.
+2025-06-20 08:58:55,145 WARNING: User katherine.moore77 already exists.
+2025-06-20 08:58:55,919 WARNING: User christopher.davis86 already exists.
+2025-06-20 08:58:56,781 WARNING: User teresa.gray30 already exists.
+2025-06-20 08:58:57,468 WARNING: User jeremy.roberts94 already exists.
+2025-06-20 08:58:58,319 WARNING: User michael.santiago71 already exists.
+2025-06-20 08:58:59,118 WARNING: User jeffrey.nguyen94 already exists.
+2025-06-20 08:58:59,920 WARNING: User nancy.edwards17 already exists.
+2025-06-20 08:59:00,209 INFO: Done. 0 users created, 10 failed.
+2025-06-20 08:59:21,127 INFO: Prepared user: dustin.gibson17
+2025-06-20 08:59:21,128 INFO: Prepared user: joseph.hopkins17
+2025-06-20 08:59:21,129 INFO: Prepared user: connie.richmond26
+2025-06-20 08:59:21,131 INFO: Prepared user: melissa.little74
+2025-06-20 08:59:21,132 INFO: Prepared user: tara.lloyd53
+2025-06-20 08:59:21,134 INFO: Prepared user: chelsea.love92
+2025-06-20 08:59:21,135 INFO: Prepared user: yesenia.morales44
+2025-06-20 08:59:21,137 INFO: Prepared user: katie.palmer94
+2025-06-20 08:59:21,138 INFO: Prepared user: brian.hill16
+2025-06-20 08:59:21,139 INFO: Prepared user: michael.bryant92
+2025-06-20 08:59:22,180 INFO: Keycloak token retrieved successfully.
+2025-06-20 08:59:22,997 ERROR: Failed to create dustin.gibson17: 500 - {"error":"unknown_error","error_description":"For more on this error consult the server log."}
+2025-06-20 08:59:23,822 ERROR: Failed to create joseph.hopkins17: 500 - {"error":"unknown_error","error_description":"For more on this error consult the server log."}
+2025-06-20 08:59:24,637 ERROR: Failed to create connie.richmond26: 500 - {"error":"unknown_error","error_description":"For more on this error consult the server log."}
+2025-06-20 08:59:25,457 ERROR: Failed to create melissa.little74: 500 - {"error":"unknown_error","error_description":"For more on this error consult the server log."}
+2025-06-20 08:59:26,277 ERROR: Failed to create tara.lloyd53: 500 - {"error":"unknown_error","error_description":"For more on this error consult the server log."}
+2025-06-20 08:59:27,094 ERROR: Failed to create chelsea.love92: 500 - {"error":"unknown_error","error_description":"For more on this error consult the server log."}
+2025-06-20 08:59:27,915 ERROR: Failed to create yesenia.morales44: 500 - {"error":"unknown_error","error_description":"For more on this error consult the server log."}
+2025-06-20 08:59:28,659 ERROR: Failed to create katie.palmer94: 500 - {"error":"unknown_error","error_description":"For more on this error consult the server log."}
+2025-06-20 08:59:29,417 ERROR: Failed to create brian.hill16: 500 - {"error":"unknown_error","error_description":"For more on this error consult the server log."}
+2025-06-20 08:59:30,170 ERROR: Failed to create michael.bryant92: 500 - {"error":"unknown_error","error_description":"For more on this error consult the server log."}
+2025-06-20 08:59:30,483 INFO: Done. 0 users created, 10 failed.
+2025-06-20 09:01:34,037 INFO: Prepared user: dustin.gibson32
+2025-06-20 09:01:34,038 INFO: Prepared user: joseph.hopkins40
+2025-06-20 09:01:34,039 INFO: Prepared user: connie.richmond13
+2025-06-20 09:01:34,041 INFO: Prepared user: melissa.little78
+2025-06-20 09:01:34,042 INFO: Prepared user: tara.lloyd07
+2025-06-20 09:01:34,043 INFO: Prepared user: chelsea.love89
+2025-06-20 09:01:34,044 INFO: Prepared user: yesenia.morales85
+2025-06-20 09:01:34,045 INFO: Prepared user: katie.palmer57
+2025-06-20 09:01:34,046 INFO: Prepared user: brian.hill91
+2025-06-20 09:01:34,047 INFO: Prepared user: michael.bryant70
+2025-06-20 09:01:34,910 INFO: Keycloak token retrieved successfully.
+2025-06-20 09:01:43,700 INFO: Done. 10 users created, 0 failed.
+2025-06-20 09:24:35,639 INFO: Prepared user: amanda.hoffman83
+2025-06-20 09:24:35,641 INFO: Prepared user: jamie.myers64
+2025-06-20 09:24:35,643 INFO: Prepared user: andrew.black35
+2025-06-20 09:24:35,645 INFO: Prepared user: michael.harmon88
+2025-06-20 09:24:36,887 INFO: Keycloak token retrieved successfully.
+2025-06-20 09:24:41,630 INFO: Done. 4 users created, 0 failed.
+2025-06-20 09:44:54,888 INFO: Prepared user: michael.harmon23
+2025-06-20 09:44:54,890 INFO: Prepared user: victoria.parker00
+2025-06-20 09:44:54,891 INFO: Prepared user: jennifer.harris12
+2025-06-20 09:44:54,892 INFO: Prepared user: mary.baker45
+2025-06-20 09:44:54,893 INFO: Prepared user: jared.collins23
+2025-06-20 09:44:54,894 INFO: Prepared user: paul.dominguez24
+2025-06-20 09:44:55,904 INFO: Keycloak token retrieved successfully.
+2025-06-20 09:44:56,724 WARNING: User michael.harmon23 already exists.
+2025-06-20 10:15:54,492 INFO: Prepared user: michael.sanders64
+2025-06-20 10:15:54,493 INFO: Prepared user: lee.fleming08
+2025-06-20 10:15:54,494 INFO: Prepared user: david.fox52
+2025-06-20 10:15:54,494 INFO: Prepared user: scott.johnson04
+2025-06-20 10:15:54,495 INFO: Prepared user: justin.powers53
+2025-06-20 10:15:55,324 INFO: Keycloak token retrieved successfully.
+2025-06-20 10:21:11,011 INFO: Prepared user: justin.powers19
+2025-06-20 10:21:11,012 INFO: Prepared user: michelle.saunders66
+2025-06-20 10:21:11,012 INFO: Prepared user: stacey.davis35
+2025-06-20 10:21:11,013 INFO: Prepared user: amy.banks31
+2025-06-20 10:21:11,014 INFO: Prepared user: susan.thompson99
+2025-06-20 10:21:11,014 INFO: Prepared user: samuel.johnson35
+2025-06-20 10:21:11,818 INFO: Keycloak token retrieved successfully.
+2025-06-20 10:21:12,637 WARNING: User justin.powers19 already exists.
+2025-06-20 12:14:34,006 INFO: Prepared user: keith.diaz26
+2025-06-20 12:14:34,012 INFO: Prepared user: brian.pollard79
+2025-06-20 12:14:34,020 INFO: Prepared user: scott.white26
+2025-06-20 12:14:34,024 INFO: Prepared user: rhonda.jackson07
+2025-06-20 12:14:34,029 INFO: Prepared user: veronica.taylor15
+2025-06-20 12:14:34,041 INFO: Prepared user: marie.cole14
+2025-06-20 12:14:35,291 INFO: Keycloak token retrieved successfully.
+2025-06-20 12:20:04,845 INFO: Prepared user: keith.diaz20
+2025-06-20 12:20:04,846 INFO: Prepared user: brian.pollard87
+2025-06-20 12:20:04,847 INFO: Prepared user: scott.white78
+2025-06-20 12:20:04,848 INFO: Prepared user: rhonda.jackson28
+2025-06-20 12:20:04,849 INFO: Prepared user: veronica.taylor37
+2025-06-20 12:20:04,849 INFO: Prepared user: marie.cole91
+2025-06-20 12:20:05,654 INFO: Keycloak token retrieved successfully.
+2025-06-20 12:38:41,025 INFO: Prepared user: keith.diaz58
+2025-06-20 12:38:41,027 INFO: Prepared user: brian.pollard19
+2025-06-20 12:38:41,028 INFO: Prepared user: scott.white50
+2025-06-20 12:38:41,029 INFO: Prepared user: rhonda.jackson95
+2025-06-20 12:38:41,030 INFO: Prepared user: veronica.taylor58
+2025-06-20 12:38:41,030 INFO: Prepared user: marie.cole05
+2025-06-20 12:38:41,898 INFO: Keycloak token retrieved successfully.
+2025-06-20 12:38:47,646 WARNING: User marie.cole05 already exists.
+2025-06-20 14:02:28,311 INFO: Prepared user: keith.diaz59
+2025-06-20 14:02:28,318 INFO: Prepared user: brian.pollard83
+2025-06-20 14:02:28,322 INFO: Prepared user: scott.white79
+2025-06-20 14:02:28,324 INFO: Prepared user: rhonda.jackson47
+2025-06-20 14:02:28,328 INFO: Prepared user: veronica.taylor08
+2025-06-20 14:02:28,330 INFO: Prepared user: marie.cole40
+2025-06-20 14:02:29,190 INFO: Keycloak token retrieved successfully.
+2025-06-20 14:02:38,968 WARNING: User veronica.taylor08 already exists.
+2025-06-20 14:02:39,657 WARNING: User marie.cole40 already exists.
+2025-06-20 14:12:15,320 WARNING: No file selected. Exiting.
+2025-06-20 14:18:51,515 INFO: Prepared user: joshua.diaz53
+2025-06-20 14:18:51,516 INFO: Prepared user: brandi.johnson64
+2025-06-20 14:18:51,517 INFO: Prepared user: isaiah.ellison02
+2025-06-20 14:18:51,518 INFO: Prepared user: tanya.wilkerson89
+2025-06-20 14:18:51,519 INFO: Prepared user: andrew.scott75
+2025-06-20 14:18:51,519 INFO: Prepared user: kim.white47
+2025-06-20 14:18:51,520 INFO: Prepared user: jessica.pittman68
+2025-06-20 14:18:51,520 INFO: Prepared user: mark.lloyd26
+2025-06-20 14:18:51,521 INFO: Prepared user: peter.hunt95
+2025-06-20 14:18:52,650 INFO: Keycloak token retrieved successfully.
+2025-06-23 11:11:19,499 INFO: Prepared user: teresa.molina17
+2025-06-23 11:11:19,502 INFO: Prepared user: cole.luna01
+2025-06-23 11:11:19,504 INFO: Prepared user: theresa.wallace69
+2025-06-23 11:11:19,505 INFO: Prepared user: erica.jackson76
+2025-06-23 11:11:19,506 INFO: Prepared user: john.cochran38
+2025-06-23 11:11:19,507 INFO: Prepared user: brianna.cummings46
+2025-06-23 11:11:20,493 INFO: Keycloak token retrieved successfully.
+2025-06-23 11:16:32,565 INFO: Prepared user: teresa.molina63
+2025-06-23 11:16:32,567 INFO: Prepared user: cole.luna42
+2025-06-23 11:16:32,568 INFO: Prepared user: theresa.wallace07
+2025-06-23 11:16:32,569 INFO: Prepared user: erica.jackson20
+2025-06-23 11:16:32,570 INFO: Prepared user: john.cochran51
+2025-06-23 11:16:32,572 INFO: Prepared user: brianna.cummings03
+2025-06-23 11:16:33,508 INFO: Keycloak token retrieved successfully.
+2025-06-23 11:16:34,456 WARNING: User teresa.molina63 already exists.
+2025-06-23 11:16:35,237 WARNING: User cole.luna42 already exists.
+2025-06-23 11:16:36,089 WARNING: User theresa.wallace07 already exists.
+2025-06-23 11:16:37,018 WARNING: User erica.jackson20 already exists.
+2025-06-23 11:16:37,805 WARNING: User john.cochran51 already exists.
+2025-06-23 11:16:38,550 WARNING: User brianna.cummings03 already exists.
+2025-06-23 11:24:11,022 INFO: Prepared user: kristin.white77
+2025-06-23 11:24:12,071 INFO: Keycloak token retrieved successfully.
+2025-06-23 11:30:43,212 INFO: Prepared user: robert.frost51
+2025-06-23 11:30:44,498 INFO: Keycloak token retrieved successfully.
+2025-06-23 11:44:28,254 INFO: Prepared user: robert.frost20
+2025-06-23 11:44:29,244 INFO: Keycloak token retrieved successfully.
+2025-06-23 11:44:30,153 WARNING: User robert.frost20 already exists.
+2025-06-23 11:45:25,114 INFO: Prepared user: james.watkins30
+2025-06-23 11:45:26,077 INFO: Keycloak token retrieved successfully.
+2025-06-23 11:52:12,375 INFO: Prepared user: jason.rogers77
+2025-06-23 11:52:13,342 INFO: Keycloak token retrieved successfully.
+2025-06-23 13:58:00,674 INFO: Prepared user: valerie.scott44
+2025-06-23 13:58:00,676 INFO: Prepared user: christy.burns67
+2025-06-23 13:58:00,677 INFO: Prepared user: stacy.clark32
+2025-06-23 13:58:03,575 INFO: Keycloak token retrieved successfully.
+2025-06-23 15:20:55,792 INFO: Prepared user: amanda.hoffman87
+2025-06-23 15:20:55,796 INFO: Prepared user: jamie.myers25
+2025-06-23 15:20:55,798 INFO: Prepared user: andrew.black15
+2025-06-23 15:20:55,800 INFO: Prepared user: michael.harmon51
+2025-06-23 15:20:57,647 INFO: Keycloak token retrieved successfully.
+2025-06-23 15:39:45,653 INFO: Prepared user: amanda.hoffman13
+2025-06-23 15:39:45,662 INFO: Prepared user: jamie.myers58
+2025-06-23 15:39:45,663 INFO: Prepared user: andrew.black73
+2025-06-23 15:39:45,664 INFO: Prepared user: michael.harmon20
+2025-06-23 15:39:46,398 INFO: Keycloak token retrieved successfully.
+2025-06-23 16:02:45,951 INFO: Prepared user: amanda.hoffman20
+2025-06-23 16:02:45,953 INFO: Prepared user: jamie.myers83
+2025-06-23 16:02:45,954 INFO: Prepared user: andrew.black53
+2025-06-23 16:02:45,954 INFO: Prepared user: michael.harmon00
+2025-06-23 16:02:46,854 INFO: Keycloak token retrieved successfully.
+2025-06-23 16:31:15,421 INFO: Prepared user: douglas.wallace58
+2025-06-23 16:31:15,423 INFO: Prepared user: jonathan.miller45
+2025-06-23 16:31:15,424 INFO: Prepared user: hunter.austin99
+2025-06-23 16:31:15,424 INFO: Prepared user: robert.lawrence90
+2025-06-23 16:31:16,376 INFO: Keycloak token retrieved successfully.
+2025-06-23 16:31:16,398 ERROR: Unexpected error for douglas.wallace58: Out of range float values are not JSON compliant: nan
+2025-06-23 16:31:16,399 ERROR: Unexpected error for jonathan.miller45: Out of range float values are not JSON compliant: nan
+2025-06-23 16:31:16,400 ERROR: Unexpected error for hunter.austin99: Out of range float values are not JSON compliant: nan
+2025-06-23 16:31:16,400 ERROR: Unexpected error for robert.lawrence90: Out of range float values are not JSON compliant: nan
