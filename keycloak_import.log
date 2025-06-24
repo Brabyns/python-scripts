@@ -308,3 +308,6 @@
 2025-06-23 16:31:16,399 ERROR: Unexpected error for jonathan.miller45: Out of range float values are not JSON compliant: nan
 2025-06-23 16:31:16,400 ERROR: Unexpected error for hunter.austin99: Out of range float values are not JSON compliant: nan
 2025-06-23 16:31:16,400 ERROR: Unexpected error for robert.lawrence90: Out of range float values are not JSON compliant: nan
+2025-06-24 04:32:09,790 INFO: Prepared user: mariah.moore98
+2025-06-24 04:32:09,791 INFO: Prepared user: matthew.berg37
+2025-06-24 04:32:10,466 INFO: Keycloak token retrieved successfully.
